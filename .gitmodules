@@ -4,3 +4,6 @@
 [submodule "react-hooks"]
 	path = react-hooks
 	url = https://github.com/antoniel/react-hooks
+[submodule "react-hooks"]
+	path = advanced-react-hooks
+	url = https://github.com/antoniel/advanced-react-hooks
